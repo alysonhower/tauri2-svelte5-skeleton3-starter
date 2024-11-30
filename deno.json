@@ -1,0 +1,9 @@
+{
+  "unstable": [
+    "fmt-component"
+  ],
+  "compilerOptions": {
+    "checkJs": true,
+    "strict": true
+  }
+}
